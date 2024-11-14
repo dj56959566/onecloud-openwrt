@@ -20,4 +20,4 @@ sed -i 's/192.168.1.1/192.168.2.2/g' package/base-files/files/bin/config_generat
 sed -i 's/OpenWrt/OneCloud/g' package/base-files/files/bin/config_generate
 
 # 替换终端为bash
-#sed -i 's/\/bin\/ash/\/bin\/bash/' package/base-files/files/etc/passwd
+sed -i 's/\/bin\/ash/\/bin\/bash/' package/base-files/files/etc/passwd
