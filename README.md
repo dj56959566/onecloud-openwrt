@@ -10,7 +10,7 @@
 
 - 登录ip: 192.168.2.2 网关ip:192.168.2.1
 - 用户名: root
-- 密码: 空
+- 密码: password
 
 ## 感谢
 - 自动编译工作流改自 https://github.com/P3TERX/Actions-OpenWrt
